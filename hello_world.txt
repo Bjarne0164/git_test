@@ -1,1 +1,2 @@
 hello world 
+my name is bjarne and im going to be a programmer
